@@ -1,0 +1,21 @@
+Creador: Ba3
+Correo electronico: lbatres@freelancerdevelopers.com
+Administrador: freelancerdevelopers.com
+Fecha de creación:14-abril-2020
+Version php:  7.2.30
+Version MySQL: 10.4.11-MariaDB
+Descripción: Tienda electronica de diversos productos.
+Licencia: SOFTWARE LIBRE ver descripcion licencia
+
+Notas tecnicas:
+.htaccess: considerar la configuracion (RewriteEngine, ErrorDocument, RewriteCond, RewriteCond, RewriteRule)
+autoload: considerar la ruta de los controladores
+mkdir: considerar dar permisos (777) de creacion y modificacion de archivos para (uploads/images)
+parameters.php: considerar los parametros fijos (base_url,controller_default,action_default)
+
+Notas de instalacion:
+1.- Ejecutar el archivo (database/datebase.sql)
+2.- El script contiene un INSERT con los datos por defecto del administrador los cuales son (usuario: admin, pass: 12121212Qw.)
+3.- Modificar .htaccess sobre los parametros requeridos a tu hosting
+4.- Modificar el conector de base de datos (config/db.php)
+5.- Modificar los parametros definidos (config/parameters.php)
