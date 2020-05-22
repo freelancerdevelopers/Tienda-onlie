@@ -10,7 +10,7 @@
 </ul>
 
 <ul>
-	<li>Creador: <a target="_blank" href="https://mx.linkedin.com/in/luis-rogelio-batres-guarneros-26854950"> Luis Rogelio Batres Guarneros</a></li>
+	<li>Creador: <a target="_blank" href="https://mx.linkedin.com/in/luis-rogelio-batres-guarneros-26854950"> Luis Rogelio Batres Guarneros</a> <a href="https://github.com/lBa3"> Github - lbatres </a></li>
 	<li>Correo electronico: <a href="mailto:lbatres@freelancerdevelopers.com">contacto-mail</a></li>
 	<li>Administrador: <a target="_blank" href="https://freelancerdevelopers.com"> freelancerdevelopers.com </a></li>
 	<li>Fecha de creación: 14-marzo-2020</li>
