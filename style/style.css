@@ -1,0 +1,171 @@
+
+/* 
+    Created on : 14-abr-2020, 23:01:09
+    Author     : ba3
+*/
+
+/*body * {
+    border: 1px solid red;
+}*/
+
+.logo{
+    width: 30%;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.m-op{
+    padding: 15px 10px 10px 10px;
+}
+
+.m-op:hover{
+    border-bottom: 2px solid #fff;
+}
+
+.form-login{
+    width: 70% !important;
+}
+.pad-left{
+    padding-left: 10px;
+}
+
+.dvhead{
+   width: 100%;
+   height: 50px;
+   text-align: right;
+   padding: 5px;
+   background: #05C7F2;
+ 
+}
+
+.dvhead > a{
+    color: #fff;
+}
+
+.pdtop{
+    padding-top: 27px;
+}
+.dvleft{
+    text-align: left;
+}
+.dvrigh{
+    text-align: right;
+    color: #05C7F2;
+}
+.dvrow{
+    padding: 10px 10px 10px 10px;
+}
+
+footer{
+    background: #0D0D0D;
+    color: #F2F2F2;
+}
+
+.banner-index{
+ width: 100%;
+}
+.categori-index{
+    border: 5px solid #fff;
+}
+
+.div-shadow{
+    overflow: hidden;
+    box-shadow: 0px 0px 1px rgba(0,0,0,1);
+	-webkit-transform:translateX(0);
+}
+.ofert{
+    width: 85%;
+    z-index: 99;
+    position: absolute;
+    background: #fd7e14;
+    opacity: 0.7;
+    clear: both;
+    display: inline-block;
+}
+
+.div-shadow:hover{
+ box-shadow: 0px 0px 38px rgba(0,0,0,1);
+ -webkit-transition-duration:2s ;
+	   -moz-transition-duration:2s ;
+	    -ms-transition-duration:2s ;
+	     -o-transition-duration:2s ;
+	        transition-duration:2s ;  
+}
+
+footer{
+    margin-top: 50px;
+    width: 100%;
+    height: 50px;
+    background: #F2F2F2;
+    color: #000;
+    text-align:center;
+    padding: 10px 10px 10px 10px;
+}
+.btn-comprar{
+    width: 100%;
+}
+
+.error-oops{
+    text-align: center;
+    display: inline-block;
+    padding: 15px 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.img-top-pad{
+    padding: 20px; 
+}
+
+.btn-facebook{
+    background: #2d4373;
+    border-color: #2d4373;
+    border:1px solid;
+    color: #fff;
+}
+
+.btn-gmail{
+    background: #dd4b39;
+    border-color: #dd4b39;
+    border:1px solid;
+    color: #fff;
+}
+.pad-center-vertical{
+    text-align: center;
+    display: inline-block;
+    padding: 250px 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.col-controlls{
+    width: 100%;
+    padding: 20px 20px 20px 20px;
+}
+
+
+.sep-top{
+    padding-top: 30px;
+}
+.sep-but{
+    padding-bottom: 30px;
+}
+
+.img-product-list{
+    width: 50px;
+    height: 50px;
+}
+td{
+    font-size: 12px;
+}
+
+.img-carrito{
+    width: 20%;
+}
+.carpro{
+    color: red;
+}
+.unid_font{
+    font-size: 19px;
+}
